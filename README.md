@@ -1,7 +1,7 @@
 [![Bevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bevanslabbert&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 - Hi, my name is Bevan Slabbert.
-- I’m currently a third year computer science student at The University of Pretoria.
+- I’m currently an Honour's student in Computer Science at The University of Pretoria.
 - Reach me by email at bevanslabbert@gmail.com.
 
 <!---
